@@ -1,7 +1,7 @@
 ## { Hello && Welcome! }
 - 👋 I’m chabandou
 - ⚡ I’m interested in Web Developement and Cybersecurity among otherthings!
-- 🌱 I’m currently a MERN Stack Dev & continuing to learning new technologies
+- 🌱 I’m a MERN Stack, Next.JS Dev & continuing to learning new technologies
 - 💞️ I’m looking to collaborate on new projects!
 - 📫 Get in touch my shooting me an Email: chabandou@gmail.com
 
